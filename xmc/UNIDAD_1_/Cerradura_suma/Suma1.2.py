@@ -1,0 +1,8 @@
+#PEDIRLE AL USUARIO QUE INGRESE LOS DIGITOS DIGITO
+num1 = float(input("INGRESA EL PRIMER NUMERO"))
+num2 = float(input("INGRESA EL SEGUNDO NUMERO"))
+
+#CALCULA LA SUMA DE DOS NUMEROS 
+suma = num1 + num2
+print("LA SUMA ES: ", suma)
+
